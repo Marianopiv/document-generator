@@ -1,0 +1,1 @@
+export const checkboxes = [{span:"Titulo",type:"text"},{span:"Fecha",type:"date"},{span:"Imagen",type:"file"},{span:"Parrafo",type:"text"},{span:"Firmas",type:"text"}]
