@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { DocumentsContext } from "../../provider/DocumentsProvider";
 import emptyDoc from "../../assets/emptyDoc.png"
 import CreatedDetail from "../createdDetail/CreatedDetail";
-import H1 from "../../UI/h1";
+import H1 from "../../UI/H1"
 
 const DocumentsCreated = () => {
   const navigate = useNavigate();

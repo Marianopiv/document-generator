@@ -5,7 +5,7 @@ import { checkboxes } from "../../config/config";
 import useTextFields from "../../hook/useTextFields";
 import { DocumentsContext } from "../../provider/DocumentsProvider";
 import Button from "../../UI/Button";
-import H1 from "../../UI/h1";
+import H1 from "../../UI/H1"
 
 const DocumentCreator = () => {
   const navigate = useNavigate();
