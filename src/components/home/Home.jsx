@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import book from "../../assets/book.png";
 import Button from "../../UI/Button";
-import H1 from "../../UI/h1";
+import H1 from "../../UI/h1"
 
 const Home = () => {
   const navigate = useNavigate();
